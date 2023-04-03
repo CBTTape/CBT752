@@ -1,0 +1,10 @@
+2023-04-03 02:23:49.352479 - Initialized conversion of CBT752
+2023-04-03 02:23:49.440035 - Received CBT.V504.FILE752.PDS from FILE752.XMI 
+2023-04-03 02:23:49.442480 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE752.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:23:49.444042 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE752.PDS, moved to PDS/$$NOTE01
+2023-04-03 02:23:49.445042 - Found $$NOTE02.txt (text/plain) in CBT.V504.FILE752.PDS, moved to PDS/$$NOTE02
+2023-04-03 02:23:49.446081 - Found #MEMLIST.rexx (text/plain) in CBT.V504.FILE752.PDS, moved to PDS/#MEMLIST
+2023-04-03 02:23:49.447384 - Found @FILE752.txt (text/plain) in CBT.V504.FILE752.PDS, moved to PDS/@FILE752
+2023-04-03 02:23:49.448595 - Found APPLDUMP.rexx (text/plain) in CBT.V504.FILE752.PDS, moved to PDS/APPLDUMP
+2023-04-03 02:23:49.449833 - Found APPLDUM1.rexx (text/plain) in CBT.V504.FILE752.PDS, moved to PDS/APPLDUM1
+2023-04-03 02:23:49.451057 - Found SCCPDSD.txt (text/plain) in CBT.V504.FILE752.PDS, moved to PDS/SCCPDSD
